@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on *BETASQUIRREL CRM*
+- 🔭 I’m currently working on **BETASQUIRREL CRM**
 
 - 🌱 I’m currently learning **electron js**
 
